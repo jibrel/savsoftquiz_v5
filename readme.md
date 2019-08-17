@@ -22,29 +22,7 @@ Quiz screen is user-friendly layout with color codes of attempted, unattempted, 
 Detailed report with score obtained, percentage, percentile, categorywise report and google chart. Admin can allow users to view correct answers.
 <br>
 <br><br>
-<strong>Useful links</strong><br> 
-Online Demo: <a href="https://savsoftquiz.com/web/demo.php" target="onlindedemo">https://savsoftquiz.com/web/demo.php</a> <br> 
-Installation Instructions: <a href="https://savsoftquiz.com/docs/installation.php" target="sqins">https://savsoftquiz.com/docs/installation.php</a> <br><br>
- 
 
-<strong>Enterprise version</strong><br> 
-Website: <a href="https://savsoftquiz.com">https://savsoftquiz.com</a> <br> 
-Power up with premium features like:<br> 
-1) Payment gateways<br> 
-2) Monetize methods<br> 
-3) Account types<br> 
-4) Landing page & CMS (Pages, posts, slider etc..)<br> 
-5) Multiple Group Subscription<br> 
-6) Support service & <a href="https://savsoftquiz.com">more</a><br> <br> 
-
-<br><br>
-
-
-Required any customisation or support service?<br><br>
-
-<strong>Contact us:</strong><br>
-Contact form: <a href="https://savsoftquiz.com/web/contact.php">https://savsoftquiz.com/web/contact.php</a><br>
-Whatsapp No. +91 7087830007<br><br>
 
 <strong>The MIT License</strong><br> 
 
