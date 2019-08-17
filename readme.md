@@ -2,7 +2,6 @@
 Savsoft Quiz v5.0 is an Opern Source and Free php based web application (script) to create and manage online quiz, test, exam on your website.<br>
 <br> 
 
-<h2><a href="https://github.com/savsofts/savsoftquiz_v5/archive/master.zip">Download</a></h2>
 
 <br><br>
 <strong>Main features:</strong><br>
